@@ -15,3 +15,5 @@
 - 💱 Торговля на Форекс и криптовалютами
 
 ![Аватар](https://avatars.githubusercontent.com/u/101497329?v=4)
+
+(You can call me InkkaPlum(Pluminkka), Plumlnc, Gopher Ai, or Gopherlnc)
