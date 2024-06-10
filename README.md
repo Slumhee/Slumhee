@@ -1,16 +1,17 @@
-## Hi there 👋
+# Привет всем 👋
 
-<!--
-**Slumhee/Slumhee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я Gopher Ai(InkkaPlum/PlumInc), энтузиаст языков, изучаю английский, японский и русский.
 
-Here are some ideas to get you started:
+## Навыки
+- Веб-разработка (Frontend и Backend)
+- Разработка на Unity
+- Основные используемые языки программирования: JavaScript, TypeScript, Go, PHP, C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Образование
+В настоящее время я изучаю компьютерные науки и электротехнику в университете.
+
+## Интересы
+- 📈 Экономика
+- 💱 Торговля на Форекс и криптовалютами
+
+![Аватар](https://avatars.githubusercontent.com/u/101497329?v=4)
