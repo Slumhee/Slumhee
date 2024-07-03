@@ -1,15 +1,21 @@
 # 大家好!/Привет всем!/Hello!/ハロー！ 👋
 
 我是 Gopher Ai（InkkaPlum/PlumInc），一名语言爱好者，正在学习英语、日语和俄语。
+
 I'm Gopher Ai(InkkaPlum/PlumInc), a language enthusiast, learning English, Japanese and Russian.
+
 Я Gopher Ai(InkkaPlum/PlumInc), энтузиаст языков, изучаю английский, японский и русский.
+
 ゴーファーアイ (インッカプラム/PlumInc)です。言語愛好家で、英語、日本語、ロシア語を勉強しています。
 
 ## 联系我/Contact me/Свяжитесь со мной/連絡先
 
 在哔哩哔哩，知乎或者Twitter(X)上给我发私信即可。
+
 Просто напишите мне личное сообщение на Bilibili(Билибили), Zhihu(Чжиху) или Twitter(X).
+
 Just send me private messages on Bilibili, Zhihu or Twitter(X).
+
 Bilibili（ビリビリ）、Zhihu（知乎）、またはTwitter（X）で私にプライベートメッセージを送ってください。
 
 
@@ -31,9 +37,13 @@ Bilibili（ビリビリ）、Zhihu（知乎）、またはTwitter（X）で私�
 ## 教育经历/Education/Образование/学歴
 
 我目前在大学学习计算机科学和电子工程（其实还没有）
+
 I am currently studying computer science and electrical engineering at university.
+
 В настоящее время я изучаю компьютерные науки и электротехнику в университете.
+
 現在、大学でコンピュータサイエンスと電気工学を学んでいます（確信
+
 
 ## 兴趣/Интересы/Interests/趣味
 
