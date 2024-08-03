@@ -10,6 +10,8 @@ I'm Gopher Ai(InkkaPlum/PlumInc), a language enthusiast, learning English, Japan
 
 ## 联系我/Contact me/Свяжитесь со мной/連絡先
 
+WeChat ID: Sliva_cg
+
 在哔哩哔哩，知乎或者Twitter(X)上给我发私信即可。
 
 Просто напишите мне личное сообщение на Bilibili(Билибили), Zhihu(Чжиху) или Twitter(X).
