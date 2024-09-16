@@ -4,7 +4,7 @@
 
 I'm Gopher Ai(InkkaPlum/PlumInc), a language enthusiast, learning English(IELTS 7.0), Japanese(N1) and Russian(CEFR B1). I'm keen on exploring the fields of computer science(CS) and electrical engineering(EE).
 
-我是 Gopher Ai（InkkaPlum/PlumInc），一名语言爱好者，正在学习英语(IELTS7.0)、日语(N1)和俄语(CEFR B1)。 我对于计算机科学和电气工程领域的学习有很大的兴趣。
+我是 Gopher Ai（InkkaPlum/PlumInc），一名语言爱好者，正在学习英语(IELTS 7.0)、日语(N1)和俄语(CEFR B1)。 我对于计算机科学和电气工程领域的学习有很大的兴趣。
 
 ## Pronouns
 
