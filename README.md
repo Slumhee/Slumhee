@@ -2,17 +2,19 @@
 
 ![image](https://github.com/user-attachments/assets/c60b3896-0c21-4ede-a17f-c25312e8c696)
 
-I'm Gopher Ai(InkkaPlum/PlumInc), a language enthusiast, learning English, Japanese and Russian.
+I'm Gopher Ai(InkkaPlum/PlumInc), a language enthusiast, learning English(IELTS 7.0), Japanese(N1) and Russian(CEFR B1). I'm keen on exploring the fields of computer science(CS) and electrical engineering(EE).
 
-我是 Gopher Ai（InkkaPlum/PlumInc），一名语言爱好者，正在学习英语、日语和俄语。
+我是 Gopher Ai（InkkaPlum/PlumInc），一名语言爱好者，正在学习英语(IELTS7.0)、日语(N1)和俄语(CEFR B1)。 我对于计算机科学和电气工程领域的学习有很大的兴趣。
 
 ## Pronouns
+
+*Non-binary MtX, HRTing|非二元含糖MtX*
 
 Please use **they/them** pronouns when referring to me. 
 
 I appreciate your understanding and respect for my identity. Thank you!
 
-不建议用"老哥", "兄弟"一类的词称呼我, 叫我"Inkka","Up","Gopher"即可。谢谢!
+不建议用"老哥", "兄弟", "老弟"一类的词称呼我, 叫我"Inkka", "Up", "Gopher/Gofer", "Plum"即可。谢谢!
 
 ## Contact me
 
