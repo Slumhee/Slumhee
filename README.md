@@ -24,6 +24,8 @@ Or Just send me private messages on Zhihu or Twitter(X).
 
 在知乎或者Twitter(X)上给我发私信即可。
 
+Telegram: Send me private messages on Twitter(X)
+
 ## Skills
 
 - Web Development (Front-end and Back-end)
