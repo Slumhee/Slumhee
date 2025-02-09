@@ -14,7 +14,7 @@ Please use **they/them | she/her** pronouns when referring to me.
 
 I appreciate your understanding and respect for my identity. Thank you!
 
-Ta/她, 请不要用"老哥", "兄弟", "老弟"一类的词称呼我, 叫我"Inkka", "Up", "Gopher/Gofer", "Plum"即可。谢谢!
+Ta/她, 请不要用"老哥", "兄弟", "老弟"一类的男性代词称呼我, 叫我"Inkka", "Up", "Gopher/Gofer", "Plum"即可。谢谢!
 
 ## Contact me
 
@@ -24,7 +24,7 @@ Or Just send me private messages on Zhihu or Twitter(X).
 
 在知乎或者Twitter(X)上给我发私信即可。
 
-Telegram: Send me private messages on Twitter(X)
+Telegram: <https://t.me/Inkkaplum>
 
 ## Skills
 
