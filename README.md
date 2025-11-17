@@ -19,7 +19,9 @@ Moving forward, this repository will **primarily host**:
 
 Existing tutorials will remain available for reference, but no new educational content will be added.
 
-If my circumstances change in the future, I may consider resuming updates.Thank you again for your understanding and kindness.
+If my circumstances change in the future, I may consider resuming updates.
+
+Thank you again for your understanding and kindness.
 
 ## Skills
 
