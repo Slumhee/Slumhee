@@ -37,7 +37,7 @@ Moving forward, this profile serves as a continuous record of my learning and de
 
 ---
 
-### 📦 Archived Tutorials (For Reference Only)
+### Archived Tutorials (For Reference Only)
 
 *These repositories are no longer actively maintained:*
 
