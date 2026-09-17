@@ -1,49 +1,55 @@
-# Hello! 👋 Ik ben Gofer Ai!
+# Hi there, I'm InkkaPlum (Gopher AI) 👋
 
-I'm Gopher Ai(InkkaPlum), I'm keen on exploring the fields of computer science(CS).
+**Computer Science Student & Quantitative Finance Enthusiast**  
+*Focused on Algorithmic Trading Systems, Market Microstructure, and High/Low-Frequency Execution.*
 
-## Important Update
+---
 
-Due to significant personal life changes, I won’t be able to update any tutorial/content-creation material for the foreseeable future (likely several years).
+### Notice & Focus Shift
 
-I’m sorry it took me this long to properly explain.
+Thank you for visiting! Due to personal schedule changes and academic commitments, my focus has fully pivoted toward **Quantitative Finance** and **Systems Engineering**. 
 
-I’m doing well—just extremely busy over the past year, and the coming years will be equally demanding.
+I am no longer creating new general web development or introductory software tutorials. All previous tutorial repositories are now permanently **archived**—they remain publicly accessible as static reference material for anyone who might find them helpful.
 
-Moving forward, **future updates will focus on**:
+---
 
-- Uni Assignments
-- Personal projects
-- Personal learning records
-- Portfolio projects
+### Current Focus & Ongoing Research
 
-Existing tutorials will remain available for reference, but no new educational content will be added.
+Moving forward, this profile serves as a continuous record of my learning and development in quantitative trading and computer science:
 
-If my circumstances change in the future, I may consider resuming updates.
+* **Quantitative Research & Models:** Developing open-source Low/High-Frequency Trading (LFT/HFT) models, trading ideas, and execution systems.
+* **Competitions & Hackathons:** Building strategies for challenges such as **IMC Prosperity** and the **BitGet Base Camp Hackathon**.
+* **Academic & Learning Records:** Insights and notes from **Optiver Trading Academy**, probability & statistics research, and university coursework.
+* **Portfolio & System Projects:** Core CS assignments, infrastructure tools, and live trading prototypes.
 
-Thank you again for your understanding and kindness.
+---
 
-## Skills
+### Skills & Technical Stack
 
-- Web Development (Front-end and Back-end)
-- Unity Development
-- Mainly used programming languages: JavaScript, TypeScript, Go, PHP, C#
+**Quantitative & Trading Domain**
+* **Asset Classes:** Spot Metal CFDs (XAU/USD), Forex CFDs (USD/JPY, EUR/USD), Futures (MNQ), US Equities (rTOKEN & PERPs)
+* **Trading Methods:** Algorithmic Trading, Day Trading (US Stocks), Macro & Fundamental Investing, Quantitative Backtesting, Risk Management
+* **Core Math:** Probability Theory, Applied Statistics, Time-Series Analysis
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slumhee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+**Programming & Engineering**
+* **Primary Languages:** Python, Go, TypeScript, JavaScript
+* **Infrastructure & Tools:** Docker, Linux, System Design, REST/WebSocket API Integration
 
-### Past Tutorials (All Archived & For Reference)
+---
 
-These repositories are no longer maintained, but remain publicly accessible for anyone wishing to reference or study them:
+### 📦 Archived Tutorials (For Reference Only)
 
-| Topic                          | Last Updated | Link |
-|-------------------------------|--------------|------|
-| Learn Gin/Golang/Gorm | 2024       | https://github.com/Slumhee/Web003Gin-01_gingormtutorials        |
-| Learn Go-Fyne  | 2024         | https://github.com/Slumhee/Go001Fyne-01_gofynetutorials      |
-| Learn Go-Fyne (Advanced) | 2024 | https://github.com/Slumhee/Go002Fyne-02_gofynetutorials02 |
-| Learn Vue 3     | 2024   | https://github.com/Slumhee/Web002VUE-01_vuebasictutorials      |
-| Learn Docker | 2025     |  https://github.com/Slumhee/Web004_Docker-01_dockertutorials  |
+*These repositories are no longer actively maintained:*
 
+| Topic | Last Updated | Repository Link |
+| :--- | :---: | :--- |
+| **Learn Gin / Golang / GORM** | 2024 | [Slumhee/Web003Gin-01_gingormtutorials](https://github.com/Slumhee/Web003Gin-01_gingormtutorials) |
+| **Learn Go-Fyne** | 2024 | [Slumhee/Go001Fyne-01_gofynetutorials](https://github.com/Slumhee/Go001Fyne-01_gofynetutorials) |
+| **Learn Go-Fyne (Advanced)** | 2024 | [Slumhee/Go002Fyne-02_gofynetutorials02](https://github.com/Slumhee/Go002Fyne-02_gofynetutorials02) |
+| **Learn Vue 3** | 2024 | [Slumhee/Web002VUE-01_vuebasictutorials](https://github.com/Slumhee/Web002VUE-01_vuebasictutorials) |
+| **Learn Docker** | 2025 | [Slumhee/Web004_Docker-01_dockertutorials](https://github.com/Slumhee/Web004_Docker-01_dockertutorials) |
 
+🚀 $\text{TO THE MOON}$
 
 
 
