@@ -37,6 +37,14 @@ Moving forward, this profile serves as a continuous record of my learning and de
 
 ---
 
+### Featured Trading Projects & Competitions
+
+| Topic | Last Updated | Repository Link |
+| :--- | :---: | :--- |
+| An event-driven, cross-sectional strategy exploiting market-structure gaps in **24/7 U.S. stock perpetuals** while traditional cash markets are closed over the weekend. It identifies Saturday morning price dislocations to build an equal-weight long basket and exits before Sunday evening's cash market reopening. Built upon a strict leakage-controlled 60D IS / 30D OOS validation pipeline.| 09/2026 | [Slumhee/bitget-hackathon-s2-p2-weekend-bounce](https://github.com/Slumhee/bitget-hackathon-s2-p2-weekend-bounce) |
+
+---
+
 ### Archived Tutorials (For Reference Only)
 
 *These repositories are no longer actively maintained:*
