@@ -57,7 +57,7 @@ Moving forward, this profile serves as a continuous record of my learning and de
 | **Learn Vue 3** | 2024 | [Slumhee/Web002VUE-01_vuebasictutorials](https://github.com/Slumhee/Web002VUE-01_vuebasictutorials) |
 | **Learn Docker** | 2025 | [Slumhee/Web004_Docker-01_dockertutorials](https://github.com/Slumhee/Web004_Docker-01_dockertutorials) |
 
-### Connect Me
+### Contact Me
 
 My Telegram ID: [@inkka_plum](https://t.me/inkka_plum)
 
