@@ -27,7 +27,7 @@ Moving forward, this profile serves as a continuous record of my learning and de
 ### Skills & Technical Stack
 
 **Quantitative & Trading Domain**
-* **Asset Classes:** Spot Metal CFDs (XAU/USD), Forex CFDs (USD/JPY, EUR/USD), Futures (MNQ), US Equities (rTOKEN & PERPs)
+* **Asset Classes:** Forex CFDs (USD/JPY, EUR/USD), Futures (MNQ), US Equities (rTOKEN & PERPs)
 * **Trading Methods:** Algorithmic Trading, Day Trading (US Stocks), Macro & Fundamental Investing, Quantitative Backtesting, Risk Management
 * **Core Math:** Probability Theory, Applied Statistics, Time-Series Analysis
 
@@ -62,8 +62,3 @@ Moving forward, this profile serves as a continuous record of my learning and de
 My Telegram ID: [@inkka_plum](https://t.me/inkka_plum)
 
 🚀 $\text{TO THE MOON}$
-
-
-
-
-
