@@ -19,7 +19,6 @@ Moving forward, this profile serves as a continuous record of my learning and de
 
 * **Quantitative Research & Models:** Developing open-source Low/High-Frequency Trading (LFT/HFT) models, trading ideas, and execution systems.
 * **Competitions & Hackathons:** Building strategies for challenges such as **IMC Prosperity** and the **BitGet Base Camp Hackathon**.
-* **Academic & Learning Records:** Insights and notes from **Optiver Trading Academy**, probability & statistics research, and university coursework.
 * **Portfolio & System Projects:** Core CS assignments, infrastructure tools, and live trading prototypes.
 
 ---
